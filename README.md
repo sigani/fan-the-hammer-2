@@ -1,5 +1,5 @@
 # Fan The Hammer 2
-A Unity3D project developed by Jaren (sigani) with the intention of learning unity and developing a classic childhood game (at least my childhood).
+A Unity3D project developed by Jaren (sigani) with the intention of learning unity, ASP.net, and developing a classic childhood game (at least my childhood).
 
 ## About
 This is based off of a game that I played with my friends on the playground.  It didn't have an official name, but I heard it being called "James Bond" or "War Game".  
