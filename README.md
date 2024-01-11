@@ -7,7 +7,9 @@ I added my twist to this game and named it "Fan The Hammer" because of the natur
 
 ## Rules
 - Round based game: both players decide on an action to take at the same time.
-- Lives: 4, Max Ammo Count: 6
+- Lives: 4
+- Starting Ammo: 0
+- Max Ammo Count: 6
 - Each player decides between 4 options: Reload, Fire, Dodge, Fan The Hammer
   - Reload: loads a bullet into the gun
     - Loses to Fire, Fan The Hammer
